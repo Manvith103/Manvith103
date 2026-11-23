@@ -3,7 +3,7 @@
 <h3 align="center">Electrical and Electronics Engineering Student | Embedded Systems | MATLAB | IoT</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00A8E8&center=true&vCenter=true&width=650&lines=Electrical+Engineering+Student;Embedded+Systems+Enthusiast;MATLAB+%26+Simulink+Learner;Exploring+EV+and+Power+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00A8E8&center=true&vCenter=true&width=650&lines=Electrical+Engineering+Student;MATLAB+%26+Simulink+Learner;Exploring+EV+and+Power+Systems" />
 </p>
 
 ---
