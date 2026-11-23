@@ -31,6 +31,19 @@
 - **Office Tools:** MS Word, MS Excel
 - **Core Subjects:** Power Systems, Electrical Machines, Protection
 
+
+### 🧰 Tools & Technologies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Multisim-00549F?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scilab-666666?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT-2E8B57?style=for-the-badge&logoColor=white" />
+</p>
+
+
 ### 🚀 Projects
 
 - Smart Fallen Conductor Detection and Automatic Isolation System
