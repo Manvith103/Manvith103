@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Kasthuri Manvith</h1>
-<h3 align="center">Electrical and Electronics Engineering Student | Embedded Systems | MATLAB | IoT</h3>
+<h3 align="center">Electrical and Electronics Engineering Student | EV | MATLAB | IoT</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00A8E8&center=true&vCenter=true&width=650&lines=Electrical+Engineering+Student;MATLAB+%26+Simulink+Learner;Exploring+EV+and+Power+Systems" />
