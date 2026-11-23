@@ -47,8 +47,20 @@
 ### 🚀 Projects
 
 - Smart Fallen Conductor Detection and Automatic Isolation System
+- Ongoing Final Year Project
+ ------
 - Hybrid Voice-Controlled Safety System
+- [Hybrid Voice-Controlled Safety System](https://github.com/Manvith103/Hybrid-Voice-Controlled-Safety-System)
+- Developed an Arduino-based system using Bluetooth voice commands and manual control.
+- Uses servo motors for a demonstration of switching operation.
+- Status: Completed
+ ------
 - Foot Step Power Generation
+- [Foot Step Power Generation System](https://github.com/Manvith103/Foot-Step-Power-Generation)
+- Developed a power generation prototype using piezoelectric sensors.
+- Converts mechanical energy from footsteps into electrical energy.
+- Status: Completed
+ ------
 - Electric Sence – EEE Student Learning Platform
 
 ### 📜 Certifications
